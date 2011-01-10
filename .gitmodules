@@ -4,3 +4,9 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-railscasts-theme"]
+	path = bundle/vim-railscasts-theme
+	url = https://github.com/jpo/vim-railscasts-theme.git
+[submodule "submodule/hexhighlight"]
+	path = submodule/hexhighlight
+	url = https://github.com/yurifury/hexHighlight.git
