@@ -1,0 +1,11 @@
+To use this setup:
+
+clone repo at ~/.vim
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
+
+install pathogen vim plugin
+https://github.com/tpope/vim-pathogen
+
+install vim plugins as git submodules
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
