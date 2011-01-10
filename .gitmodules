@@ -10,3 +10,9 @@
 [submodule "submodule/hexhighlight"]
 	path = submodule/hexhighlight
 	url = https://github.com/yurifury/hexHighlight.git
+[submodule "block/vim/textobj-user"]
+	path = block/vim/textobj-user
+	url = https://github.com/kana/vim-textobj-user.git
+[submodule "bundle/vim/textobj-rubyblock"]
+	path = bundle/vim/textobj-rubyblock
+	url = https://github.com/nelstrom/vim-textobj-rubyblock.git
