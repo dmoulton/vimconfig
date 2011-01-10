@@ -16,3 +16,9 @@
 [submodule "bundle/vim/textobj-rubyblock"]
 	path = bundle/vim/textobj-rubyblock
 	url = https://github.com/nelstrom/vim-textobj-rubyblock.git
+[submodule "bundle/hexhighlight"]
+	path = bundle/hexhighlight
+	url = https://github.com/yurifury/hexHighlight.git
+[submodule "bundle/textobj-rubyblock"]
+	path = bundle/textobj-rubyblock
+	url = https://github.com/nelstrom/vim-textobj-rubyblock.git
