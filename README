@@ -8,4 +8,9 @@ install pathogen vim plugin
 https://github.com/tpope/vim-pathogen
 
 install vim plugins as git submodules
+Example:
+mkdir ~/.vim/bundle
+git submodule add http://github.com/tpope/vim-fugitive.git bundle/fugitive
+git add .
+git commit -m "Install Fugitive.vim bundle as a submodule."
 http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
